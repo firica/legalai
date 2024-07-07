@@ -1,0 +1,11 @@
+langchain-chroma
+langchain
+langchain_core
+langchain-openai
+langchain_community
+chromadb>=0.4.4
+openai>=1.7.2
+tqdm 
+requests
+pymupdf
+
