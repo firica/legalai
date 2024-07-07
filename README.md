@@ -5,7 +5,7 @@ Technically it is a RAG system implementation, using:
 - LLM - ChatGPT 4.o
 - VectorDB - ChromaDB
 - Embedding functions - OpenAI
-- LangChain - Agent 
+- Agents - LangChain 
 
 It demonstrates how efficient this type of system could be for big documents as a context and how smart the LLM is on understanding legal terms.
 
@@ -21,5 +21,5 @@ After that it should be all fine. To run it localy, in the app folder use:
 streamlit run app.py
 ```
 
-### Live demo
+### Demo
 https://huggingface.co/spaces/firica/legalai
